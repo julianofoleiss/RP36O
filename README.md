@@ -4,6 +4,6 @@
 
 * Instale o [Jupyter Notebook](http://jupyter.readthedocs.org/en/latest/install.html)
 * > pip install numpy scipy matplotlib scikit-learn
-* > git clone https://github.com/julianofoleiss/BCC35G.git
+* > git clone https://github.com/julianofoleiss/RP36O.git
 * > cd BCC35G
 * > jupyter notebook
